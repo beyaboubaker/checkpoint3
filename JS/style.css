@@ -1,0 +1,38 @@
+body{
+    margin: 0% ;
+    padding: 0%;
+    background-color: black ;
+
+}
+
+.D1 *{
+    display: inline;
+    margin-left: 10px;
+
+}
+
+.D1{
+    display:flex;justify-content: center;
+}
+
+.D1 a:link{
+    color:white;
+}
+
+.D1 a:hover{
+    color:white;
+}
+
+.D1 a:visited{
+    color:white;
+}
+img{
+    width: 100%;
+}
+h2{
+    color: white;
+}
+
+.baya{
+    padding-top: 80px;
+}
